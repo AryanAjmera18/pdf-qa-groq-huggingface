@@ -2,6 +2,8 @@
 
 This project is an intelligent question-answering system that allows users to query across a set of PDF documents using LLMs from **GROQ (LLaMA3)** and semantic embeddings from **HuggingFace (sentence-transformers)**. Built with **LangChain**, **FAISS**, and **Streamlit**, this app provides fast, context-aware answers with document similarity display.
 
+🌐 **Live Demo:** [Streamlit App](https://aryanajmera18-pdf-qa-groq-huggingface-app-50pdvs.streamlit.app/)
+
 ---
 
 ## 🚀 Features
